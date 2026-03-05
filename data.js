@@ -6,7 +6,7 @@
             gender: 'Male',
             tech: 'Software developer', 
             age: 30,
-            movement: ['Reactjs', 'Nextjs', 'Angular', 'python', 'mongoDb', 'Golang']
+            technologies: ['Reactjs', 'Nextjs', 'Angular', 'python', 'mongoDb', 'Golang']
         },
 
         {
@@ -15,7 +15,7 @@
             gender: 'Male',
             tech: 'Software developer', 
             age: 30,
-            movement: ['Reactjs', 'Nextjs', 'python', 'mongoDb', 'etc']
+            technologies: ['Reactjs', 'Nextjs', 'python', 'mongoDb', 'etc']
         },
                 {
             id: 3,
@@ -23,7 +23,7 @@
             gender: 'Male',
             tech: 'Software developer', 
             age: 30,
-            movement: ['Reactjs', 'Nextjs', 'python', 'Nodejs', 'mongoDb']
+            technologies: ['Reactjs', 'Nextjs', 'python', 'Nodejs', 'mongoDb']
         },
 
         {
@@ -40,7 +40,7 @@
             gender: 'Female',
             tech: 'Forest trader',
             age: 23,
-            movement: ['meta forest', 'trading view']
+            technologies: ['meta forest', 'trading view']
         },
         {
             id:6,
@@ -48,7 +48,7 @@
             gender: 'Female',
             tech: 'Data analyst',
             age: 27,
-            movement: [400, 700, 3450, 45.56]
+            technologies: ['Ms. Excel', 'Power BI', 'SQL', 'Ms. Access', 'Oracle']
         },
                 {
             id:7,
