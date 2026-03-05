@@ -35,7 +35,8 @@
 
 
 export const usage = `<div style="font-family: arial; color: #8e008e; text-transform: uppercase; padding: 2rem 6rem;">
-    <h1>Follow the following steps to use the api</h1>
+    <h1>get Api written by alfreda.a (08137249872)</h1>
+    <h5>Follow the following steps to use the api</h5>
     <ol style="display: flex; flex-direction: column; gap: 1rem;">
     <li>copy the link given below</li>
     <li>use fetch or axios to access the get request details</li>
