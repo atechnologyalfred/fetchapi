@@ -34,6 +34,13 @@
     ]
 
 
-export const usage = "open /usage to see how to use api"
+export const usage = `<div style="font-family: arial; color: #8e008e; text-transform: uppercase; padding: 2rem 6rem;">
+    <h1>Follow the following steps to use the api</h1>
+    <ol style="display: flex; flex-direction: column; gap: 1rem;">
+    <li>copy the link given below</li>
+    <li>use fetch or axios to access the get request details</li>
+    <li>use .json() to get the objects</li>
+    </ol>
+</div>`
 
     export default data;
