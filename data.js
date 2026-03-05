@@ -1,4 +1,5 @@
     const data = [
+        
         {
             id: 1,
             name: 'Alfred',
@@ -31,4 +32,8 @@
             movement: [400, 700, 3450, 45.56]
         }
     ]
+
+
+export const usage = "open /usage to see how to use api"
+
     export default data;
