@@ -19,7 +19,7 @@
         },
                 {
             id: 3,
-            name: 'moderator',
+            name: 'Alfred',
             gender: 'Male',
             tech: 'Software developer', 
             age: 30,
