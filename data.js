@@ -1,7 +1,8 @@
+    import { v4 as uuidv4 } from 'uuid';
     const data = [
         
         {
-            id: 1,
+            id: uuidv4(),
             name: 'King Sherif',
             gender: 'Male',
             tech: 'Software developer', 
@@ -10,7 +11,7 @@
         },
 
         {
-            id: 2,
+            id: uuidv4(),
             name: 'Moderator',
             gender: 'Male',
             tech: 'Software developer', 
@@ -18,7 +19,7 @@
             technologies: ['Reactjs', 'Nextjs', 'python', 'mongoDb', 'etc']
         },
                 {
-            id: 3,
+            id: uuidv4(),
             name: 'Alfred',
             gender: 'Male',
             tech: 'Software developer', 
@@ -27,7 +28,7 @@
         },
 
         {
-            id: 4,
+            id: uuidv4(),
             name: 'Donata',
             gender: 'Female',
             tech: 'Frontend developer',
@@ -35,7 +36,7 @@
             technologies: ['html', 'custom css', 'tailwindcss', 'reactjs', 'git and github']
         },
         {
-            id: 5,
+            id: uuidv4(),
             name: 'Charisma',
             gender: 'Female',
             tech: 'Forest trader',
@@ -43,7 +44,7 @@
             technologies: ['meta forest', 'trading view']
         },
         {
-            id:6,
+            id: uuidv4(),
             name: 'Grace',
             gender: 'Female',
             tech: 'Data analyst',
@@ -51,7 +52,7 @@
             technologies: ['Ms. Excel', 'Power BI', 'SQL', 'Ms. Access', 'Oracle']
         },
                 {
-            id:7,
+            id: uuidv4(),
             name: 'Evangel',
             gender: 'Female',
             tech: 'Graphic designer, UI/UX designer & Frontend web developer',
